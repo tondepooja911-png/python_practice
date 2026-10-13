@@ -1,0 +1,9 @@
+Agentic AI represents a shift in artificial intelligence from systems that merely generate content to systems that can take action. While traditional AI is reactive and follows fixed rules, Agentic AI is proactive and can accomplish complex goals with minimal human intervention. 
+IBM
+IBM
+ +2
+Key Characteristics
+Autonomy: Operates independently without needing step-by-step human guidance.
+Goal-Orientation: Reasons through high-level objectives, breaking them down into multi-step plans.
+Adaptability: Uses feedback and memory to self-correct and adjust strategies in real-time if a task fails or conditions change.
+Tool Usage: Connects directly with external systems like APIs, databases, and software to execute work (e.g., sending emails or updating a CRM)
